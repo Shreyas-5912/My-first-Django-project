@@ -64,8 +64,6 @@ python manage.py migrate
 Start the development server:
 
 ```bash
-Copy
-Edit
 python manage.py runserver
 ```
 Now, open your browser and go to http://127.0.0.1:8000/ to see the app in action!
